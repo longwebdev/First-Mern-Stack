@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://long:long0123@cluster0-tqasx.mongodb.net/shopping",
+    "jwtSecret": "sl_myJwtSecret"
+}
